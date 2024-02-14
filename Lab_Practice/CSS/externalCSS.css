@@ -1,0 +1,13 @@
+body {
+      background-color: wheat;
+  }
+
+  h1 {
+      color: red;
+      text-align: center;
+  }
+
+  p {
+      color: blue;
+      text-align: justify;
+  }
